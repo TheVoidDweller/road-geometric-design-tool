@@ -85,3 +85,14 @@ This project brings together my road design background and my growing software d
 ## Feedback
 
 Technical feedback is welcome, especially on calculation clarity, reference traceability, English terminology and repetitive road design tasks that could benefit from automation. Please use fictional or anonymized examples when describing a workflow.
+
+## Application screenshots
+
+### Horizontal geometry
+![Horizontal geometry inputs and results](assets/horizontal.png)
+
+### Vertical geometry
+![Vertical geometry inputs and results](assets/vertical.png)
+
+### Speed-change lanes
+![Speed-change lane calculations and layout](assets/auxiliary-lanes.png)
