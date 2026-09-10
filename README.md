@@ -31,6 +31,35 @@ It is also part of my development as an engineer who builds automation tools. Th
 | Excel export | Export individual calculation reports and the consolidated project calculation book. |
 | Language | Portuguese and English presentation, retaining the implemented Brazilian engineering references. |
 
+
+## Application screenshots
+
+Screenshots from the application with the interface set to English. The calculation references remain Brazilian; some example record names are entered in Portuguese.
+
+### Horizontal geometry
+
+Design inputs, automatically selected criteria and a summary of radius, stopping sight distance, superelevation, spiral length and lane widening.
+
+![Horizontal geometry: design inputs, Brazilian reference selection, summary and detailed results](assets/horizontal.png)
+
+<details>
+<summary>View vertical geometry</summary>
+
+Grades and design speed are presented alongside curve type, stopping sight distance, adopted length and K value. The detailed report keeps parameters and reference notes visible.
+
+![Vertical geometry: crest curve inputs, design summary and detailed calculation report](assets/vertical.png)
+
+</details>
+
+<details>
+<summary>View speed-change lanes</summary>
+
+Mainline and ramp speeds feed the lane calculation. The output combines taper and full-width lengths, a report table and a dimensioned conceptual layout.
+
+![Deceleration lane: speed inputs, length summary, report table and dimensioned conceptual layout](assets/auxiliary-lanes.png)
+
+</details>
+
 ## Engineering workflow
 
 1. **Select the context.** Choose the module and applicable Brazilian reference.
@@ -85,14 +114,3 @@ This project brings together my road design background and my growing software d
 ## Feedback
 
 Technical feedback is welcome, especially on calculation clarity, reference traceability, English terminology and repetitive road design tasks that could benefit from automation. Please use fictional or anonymized examples when describing a workflow.
-
-## Application screenshots
-
-### Horizontal geometry
-![Horizontal geometry inputs and results](assets/horizontal.png)
-
-### Vertical geometry
-![Vertical geometry inputs and results](assets/vertical.png)
-
-### Speed-change lanes
-![Speed-change lane calculations and layout](assets/auxiliary-lanes.png)
